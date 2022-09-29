@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "herencia_producto/1.0.0": {
+        "runtime": {
+          "herencia_producto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "herencia_producto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\bin\Debug\net6.0\herencia_producto.exe
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\bin\Debug\net6.0\herencia_producto.deps.json
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\bin\Debug\net6.0\herencia_producto.runtimeconfig.json
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\bin\Debug\net6.0\herencia_producto.dll
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\bin\Debug\net6.0\herencia_producto.pdb
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\herencia_producto.csproj.AssemblyReference.cache
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\herencia_producto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\herencia_producto.AssemblyInfoInputs.cache
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\herencia_producto.AssemblyInfo.cs
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\herencia_producto.csproj.CoreCompileInputs.cache
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\herencia_producto.dll
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\refint\herencia_producto.dll
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\herencia_producto.pdb
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\herencia_producto.genruntimeconfig.cache
+C:\Users\abela\source\repos\herencia_producto\herencia_producto\obj\Debug\net6.0\ref\herencia_producto.dll
